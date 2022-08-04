@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "D:\\GitLab\\ShopOnlineSolution\\ShopOnline.Api\\ShopOnline.Api.csproj": {}
+    "E:\\repos\\ShopOnlineWithEFCoreAndBlazorWebAssembly\\ShopOnline.Api\\ShopOnline.Api.csproj": {}
   },
   "projects": {
-    "D:\\GitLab\\ShopOnlineSolution\\ShopOnline.Api\\ShopOnline.Api.csproj": {
+    "E:\\repos\\ShopOnlineWithEFCoreAndBlazorWebAssembly\\ShopOnline.Api\\ShopOnline.Api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\GitLab\\ShopOnlineSolution\\ShopOnline.Api\\ShopOnline.Api.csproj",
+        "projectUniqueName": "E:\\repos\\ShopOnlineWithEFCoreAndBlazorWebAssembly\\ShopOnline.Api\\ShopOnline.Api.csproj",
         "projectName": "ShopOnline.Api",
-        "projectPath": "D:\\GitLab\\ShopOnlineSolution\\ShopOnline.Api\\ShopOnline.Api.csproj",
-        "packagesPath": "D:\\working_dir\\przjac\\.nuget\\packages\\",
-        "outputPath": "D:\\GitLab\\ShopOnlineSolution\\ShopOnline.Api\\obj\\",
+        "projectPath": "E:\\repos\\ShopOnlineWithEFCoreAndBlazorWebAssembly\\ShopOnline.Api\\ShopOnline.Api.csproj",
+        "packagesPath": "C:\\Users\\Andrzej Gołota\\.nuget\\packages\\",
+        "outputPath": "E:\\repos\\ShopOnlineWithEFCoreAndBlazorWebAssembly\\ShopOnline.Api\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "D:\\working_dir\\przjac\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Andrzej Gołota\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -32,8 +32,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "D:\\GitLab\\ShopOnlineSolution\\ShopOnline.Web\\ShopOnline.Web.csproj": {
-                "projectPath": "D:\\GitLab\\ShopOnlineSolution\\ShopOnline.Web\\ShopOnline.Web.csproj"
+              "E:\\repos\\ShopOnlineWithEFCoreAndBlazorWebAssembly\\ShopOnline.Models\\ShopOnline.Models.csproj": {
+                "projectPath": "E:\\repos\\ShopOnlineWithEFCoreAndBlazorWebAssembly\\ShopOnline.Models\\ShopOnline.Models.csproj"
               }
             }
           }
@@ -81,24 +81,24 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.302\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.200\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\GitLab\\ShopOnlineSolution\\ShopOnline.Web\\ShopOnline.Web.csproj": {
+    "E:\\repos\\ShopOnlineWithEFCoreAndBlazorWebAssembly\\ShopOnline.Models\\ShopOnline.Models.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\GitLab\\ShopOnlineSolution\\ShopOnline.Web\\ShopOnline.Web.csproj",
-        "projectName": "ShopOnline.Web",
-        "projectPath": "D:\\GitLab\\ShopOnlineSolution\\ShopOnline.Web\\ShopOnline.Web.csproj",
-        "packagesPath": "D:\\working_dir\\przjac\\.nuget\\packages\\",
-        "outputPath": "D:\\GitLab\\ShopOnlineSolution\\ShopOnline.Web\\obj\\",
+        "projectUniqueName": "E:\\repos\\ShopOnlineWithEFCoreAndBlazorWebAssembly\\ShopOnline.Models\\ShopOnline.Models.csproj",
+        "projectName": "ShopOnline.Models",
+        "projectPath": "E:\\repos\\ShopOnlineWithEFCoreAndBlazorWebAssembly\\ShopOnline.Models\\ShopOnline.Models.csproj",
+        "packagesPath": "C:\\Users\\Andrzej Gołota\\.nuget\\packages\\",
+        "outputPath": "E:\\repos\\ShopOnlineWithEFCoreAndBlazorWebAssembly\\ShopOnline.Models\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "D:\\working_dir\\przjac\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Andrzej Gołota\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -124,17 +124,6 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
-          "dependencies": {
-            "Microsoft.AspNetCore.Components.WebAssembly": {
-              "target": "Package",
-              "version": "[6.0.7, )"
-            },
-            "Microsoft.AspNetCore.Components.WebAssembly.DevServer": {
-              "suppressParent": "All",
-              "target": "Package",
-              "version": "[6.0.7, )"
-            }
-          },
           "imports": [
             "net461",
             "net462",
@@ -145,23 +134,12 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "downloadDependencies": [
-            {
-              "name": "Microsoft.NETCore.App.Runtime.Mono.browser-wasm",
-              "version": "[6.0.7, 6.0.7]"
-            }
-          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.302\\RuntimeIdentifierGraph.json"
-        }
-      },
-      "runtimes": {
-        "browser-wasm": {
-          "#import": []
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.200\\RuntimeIdentifierGraph.json"
         }
       }
     }

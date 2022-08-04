@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "NxESzoPgTC3xUUTivry3cE+8e+XTEqk69bI7RgfjFob0CkBpAjewCjN/1YW5Khn7qN8h3+1KKrDZTd/WyRD1Dw==",
+  "dgSpecHash": "6v0lfIEmcnB0GPmfGB7PonYeQInU4JAQ28k1ZE+GtAIbNNyE+7jK6nP3V3rxum4qSTbipr8QfuEW4ytzuLms7g==",
   "success": true,
-  "projectFilePath": "D:\\GitLab\\ShopOnlineSolution\\ShopOnline.Models\\ShopOnline.Models.csproj",
+  "projectFilePath": "E:\\repos\\ShopOnlineWithEFCoreAndBlazorWebAssembly\\ShopOnline.Models\\ShopOnline.Models.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
