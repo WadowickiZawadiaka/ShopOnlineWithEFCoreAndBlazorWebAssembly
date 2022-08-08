@@ -8,23 +8,23 @@
     "net6.0": []
   },
   "packageFolders": {
-    "D:\\working_dir\\przjac\\.nuget\\packages\\": {},
+    "C:\\Users\\Andrzej Gołota\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\GitLab\\ShopOnlineWithEFCoreAndBlazorWebAssembly\\ShopOnline.Models\\ShopOnline.Models.csproj",
+      "projectUniqueName": "E:\\repos\\ShopOnline\\ShopOnline.Models\\ShopOnline.Models.csproj",
       "projectName": "ShopOnline.Models",
-      "projectPath": "D:\\GitLab\\ShopOnlineWithEFCoreAndBlazorWebAssembly\\ShopOnline.Models\\ShopOnline.Models.csproj",
-      "packagesPath": "D:\\working_dir\\przjac\\.nuget\\packages\\",
-      "outputPath": "D:\\GitLab\\ShopOnlineWithEFCoreAndBlazorWebAssembly\\ShopOnline.Models\\obj\\",
+      "projectPath": "E:\\repos\\ShopOnline\\ShopOnline.Models\\ShopOnline.Models.csproj",
+      "packagesPath": "C:\\Users\\Andrzej Gołota\\.nuget\\packages\\",
+      "outputPath": "E:\\repos\\ShopOnline\\ShopOnline.Models\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "D:\\working_dir\\przjac\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Andrzej Gołota\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],

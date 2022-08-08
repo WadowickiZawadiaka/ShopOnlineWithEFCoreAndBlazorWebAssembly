@@ -22,3 +22,15 @@ D:\GitLab\ShopOnlineWithEFCoreAndBlazorWebAssembly\ShopOnline.Models\obj\Debug\n
 D:\GitLab\ShopOnlineWithEFCoreAndBlazorWebAssembly\ShopOnline.Models\obj\Debug\net6.0\refint\ShopOnline.Models.dll
 D:\GitLab\ShopOnlineWithEFCoreAndBlazorWebAssembly\ShopOnline.Models\obj\Debug\net6.0\ShopOnline.Models.pdb
 D:\GitLab\ShopOnlineWithEFCoreAndBlazorWebAssembly\ShopOnline.Models\obj\Debug\net6.0\ref\ShopOnline.Models.dll
+E:\repos\ShopOnline\ShopOnline.Models\bin\Debug\net6.0\ShopOnline.Models.deps.json
+E:\repos\ShopOnline\ShopOnline.Models\bin\Debug\net6.0\ShopOnline.Models.dll
+E:\repos\ShopOnline\ShopOnline.Models\bin\Debug\net6.0\ShopOnline.Models.pdb
+E:\repos\ShopOnline\ShopOnline.Models\obj\Debug\net6.0\ShopOnline.Models.csproj.AssemblyReference.cache
+E:\repos\ShopOnline\ShopOnline.Models\obj\Debug\net6.0\ShopOnline.Models.GeneratedMSBuildEditorConfig.editorconfig
+E:\repos\ShopOnline\ShopOnline.Models\obj\Debug\net6.0\ShopOnline.Models.AssemblyInfoInputs.cache
+E:\repos\ShopOnline\ShopOnline.Models\obj\Debug\net6.0\ShopOnline.Models.AssemblyInfo.cs
+E:\repos\ShopOnline\ShopOnline.Models\obj\Debug\net6.0\ShopOnline.Models.csproj.CoreCompileInputs.cache
+E:\repos\ShopOnline\ShopOnline.Models\obj\Debug\net6.0\ShopOnline.Models.dll
+E:\repos\ShopOnline\ShopOnline.Models\obj\Debug\net6.0\refint\ShopOnline.Models.dll
+E:\repos\ShopOnline\ShopOnline.Models\obj\Debug\net6.0\ShopOnline.Models.pdb
+E:\repos\ShopOnline\ShopOnline.Models\obj\Debug\net6.0\ref\ShopOnline.Models.dll
