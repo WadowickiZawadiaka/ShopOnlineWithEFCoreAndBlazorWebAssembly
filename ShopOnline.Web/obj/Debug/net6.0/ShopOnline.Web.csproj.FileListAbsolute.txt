@@ -3275,3 +3275,4 @@ E:\repos\ShopOnline\ShopOnline.Web\obj\Debug\net6.0\build-gz\PEyFMB4+.gz
 E:\repos\ShopOnline\ShopOnline.Web\obj\Debug\net6.0\build-gz\FzUFTa4J.gz
 E:\repos\ShopOnline\ShopOnline.Web\obj\Debug\net6.0\build-gz\xWcTmVtS.gz
 E:\repos\ShopOnline\ShopOnline.Web\obj\Debug\net6.0\scopedcss\Pages\DisplayProducts.razor.rz.scp.css
+E:\repos\ShopOnline\ShopOnline.Web\obj\Debug\net6.0\scopedcss\Pages\DisplaySpinner.razor.rz.scp.css
