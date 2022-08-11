@@ -197,14 +197,14 @@
       "netstandard.dll": "sha256-CvlfDmNgFRYT7l\/xZKu91FlbTFyLG\/5cH7YX63k9ghE=",
       "System.Private.CoreLib.dll": "sha256-aF4imeOpA59D6F5qCLabzkeY7MvRZzNYzavhB\/bdxvM=",
       "ShopOnline.Models.dll": "sha256-IWNxcJDGc7ESzDDn8ZDbv8oKzNeOhHe06PUp0asjfyc=",
-      "ShopOnline.Web.dll": "sha256-W21S+j0n+EjTcBPfy43H9uq3TD7QJrtWLzn8Q+7ugNw="
+      "ShopOnline.Web.dll": "sha256-k\/A19\/i6ZUvUkGubRbUcetrXEt0bf2qTOKPOVfkPzIY="
     },
     "extensions": null,
     "lazyAssembly": null,
     "libraryInitializers": null,
     "pdb": {
       "ShopOnline.Models.pdb": "sha256-NpUQJJzpth4EjcXppBAiSiM2E2HB9K5UErzdtusi\/Q0=",
-      "ShopOnline.Web.pdb": "sha256-iBxdMDqL3ef959QUu8I693wtIzlwAGrIKoAocALDMAI="
+      "ShopOnline.Web.pdb": "sha256-cV5VJKWejN\/b7\/WMGVE0q0YSly\/FTqOuWm7YWzMi7pk="
     },
     "runtime": {
       "dotnet.6.0.7.dfwpo5gy4q.js": "sha256-pvJcJ6jtDSfxgXm03QYRTm4aAi9PSzMSJODReHtvASY=",
