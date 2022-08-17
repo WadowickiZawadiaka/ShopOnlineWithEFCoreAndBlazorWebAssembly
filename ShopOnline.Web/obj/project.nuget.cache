@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "xvgr4HNY75tYAV8zS4AHmG58QgRW5X1YxcS0DXsaOW2ut+GDwiCos9nFeGgT6TwA/6Wi/qJYSuhtIBty55Jetg==",
+  "dgSpecHash": "5PpRGru3wVQNswd0mzZqrpl5t9Z0iyG3K3wObDN4I8m3mXg2+qHcla8o0qTo55tBgOYA9sAE2IeLEfrYpyz1sQ==",
   "success": true,
   "projectFilePath": "D:\\GitLab\\ShopOnlineWithEFCoreAndBlazorWebAssembly\\ShopOnline.Web\\ShopOnline.Web.csproj",
   "expectedPackageFiles": [
@@ -28,6 +28,7 @@
     "D:\\working_dir\\przjac\\.nuget\\packages\\microsoft.extensions.primitives\\6.0.0\\microsoft.extensions.primitives.6.0.0.nupkg.sha512",
     "D:\\working_dir\\przjac\\.nuget\\packages\\microsoft.jsinterop\\6.0.7\\microsoft.jsinterop.6.0.7.nupkg.sha512",
     "D:\\working_dir\\przjac\\.nuget\\packages\\microsoft.jsinterop.webassembly\\6.0.7\\microsoft.jsinterop.webassembly.6.0.7.nupkg.sha512",
+    "D:\\working_dir\\przjac\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
     "D:\\working_dir\\przjac\\.nuget\\packages\\system.diagnostics.diagnosticsource\\6.0.0\\system.diagnostics.diagnosticsource.6.0.0.nupkg.sha512",
     "D:\\working_dir\\przjac\\.nuget\\packages\\system.io.pipelines\\6.0.3\\system.io.pipelines.6.0.3.nupkg.sha512",
     "D:\\working_dir\\przjac\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
