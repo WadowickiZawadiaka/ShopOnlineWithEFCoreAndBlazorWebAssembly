@@ -22,7 +22,7 @@ namespace ShopOnline.Api.Repositories
 
         public async Task<CartItem> AddItem(CartItemToAddDto cartItemToAddDto)
         {
-            if (await CartItemExists(cartItemToAddDto.CartId, cartItemToAddDto.ProductId))
+            if (await CartItemExists(cartItemToAddDto.CartId, cartItemToAddDto.ProductId) == false)
             {
                 var item = await (from product in this.shopOnlineDbContext.Products
                                   where product.Id == cartItemToAddDto.ProductId
