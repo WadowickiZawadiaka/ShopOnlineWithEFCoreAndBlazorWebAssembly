@@ -154,7 +154,7 @@ namespace ShopOnline.Api.Controllers
 
                 var cartItemDto = cartItem.ConvertToDto(product);
 
-                return Ok(cartItem);
+                return Ok(cartItemDto);
 
             }
             catch (Exception ex)
