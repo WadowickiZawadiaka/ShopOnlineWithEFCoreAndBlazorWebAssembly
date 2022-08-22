@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "aDCn0anVncp8UW1FN/x8suspJfYHZDJdeRJljg9P7jU=",
+  "Hash": "uj1q3C4WSsunFwW6fnIORtcv/236ZumXgjVUHhWFPlw=",
   "Source": "ShopOnline.Web",
   "BasePath": "/",
   "Mode": "Root",
@@ -7580,6 +7580,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\index.html"
+    },
+    {
+      "Identity": "D:\\GitLab\\ShopOnlineWithEFCoreAndBlazorWebAssembly\\ShopOnline.Web\\wwwroot\\js\\ShoppingCartFunctions.js",
+      "SourceId": "ShopOnline.Web",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\GitLab\\ShopOnlineWithEFCoreAndBlazorWebAssembly\\ShopOnline.Web\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "js/ShoppingCartFunctions.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\ShoppingCartFunctions.js"
     },
     {
       "Identity": "D:\\GitLab\\ShopOnlineWithEFCoreAndBlazorWebAssembly\\ShopOnline.Web\\wwwroot\\sample-data\\weather.json",
