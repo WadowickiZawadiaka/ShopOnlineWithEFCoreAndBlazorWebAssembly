@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "E:\\repos\\ShopOnline\\ShopOnline.Web\\ShopOnline.Web.csproj": {}
+    "D:\\GitLab\\ShopOnlineWithEFCoreAndBlazorWebAssembly\\ShopOnline.Web\\ShopOnline.Web.csproj": {}
   },
   "projects": {
-    "E:\\repos\\ShopOnline\\ShopOnline.Models\\ShopOnline.Models.csproj": {
+    "D:\\GitLab\\ShopOnlineWithEFCoreAndBlazorWebAssembly\\ShopOnline.Models\\ShopOnline.Models.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\repos\\ShopOnline\\ShopOnline.Models\\ShopOnline.Models.csproj",
+        "projectUniqueName": "D:\\GitLab\\ShopOnlineWithEFCoreAndBlazorWebAssembly\\ShopOnline.Models\\ShopOnline.Models.csproj",
         "projectName": "ShopOnline.Models",
-        "projectPath": "E:\\repos\\ShopOnline\\ShopOnline.Models\\ShopOnline.Models.csproj",
-        "packagesPath": "C:\\Users\\Andrzej Gołota\\.nuget\\packages\\",
-        "outputPath": "E:\\repos\\ShopOnline\\ShopOnline.Models\\obj\\",
+        "projectPath": "D:\\GitLab\\ShopOnlineWithEFCoreAndBlazorWebAssembly\\ShopOnline.Models\\ShopOnline.Models.csproj",
+        "packagesPath": "D:\\working_dir\\przjac\\.nuget\\packages\\",
+        "outputPath": "D:\\GitLab\\ShopOnlineWithEFCoreAndBlazorWebAssembly\\ShopOnline.Models\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Andrzej Gołota\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "D:\\working_dir\\przjac\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -62,20 +62,20 @@
         }
       }
     },
-    "E:\\repos\\ShopOnline\\ShopOnline.Web\\ShopOnline.Web.csproj": {
+    "D:\\GitLab\\ShopOnlineWithEFCoreAndBlazorWebAssembly\\ShopOnline.Web\\ShopOnline.Web.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\repos\\ShopOnline\\ShopOnline.Web\\ShopOnline.Web.csproj",
+        "projectUniqueName": "D:\\GitLab\\ShopOnlineWithEFCoreAndBlazorWebAssembly\\ShopOnline.Web\\ShopOnline.Web.csproj",
         "projectName": "ShopOnline.Web",
-        "projectPath": "E:\\repos\\ShopOnline\\ShopOnline.Web\\ShopOnline.Web.csproj",
-        "packagesPath": "C:\\Users\\Andrzej Gołota\\.nuget\\packages\\",
-        "outputPath": "E:\\repos\\ShopOnline\\ShopOnline.Web\\obj\\",
+        "projectPath": "D:\\GitLab\\ShopOnlineWithEFCoreAndBlazorWebAssembly\\ShopOnline.Web\\ShopOnline.Web.csproj",
+        "packagesPath": "D:\\working_dir\\przjac\\.nuget\\packages\\",
+        "outputPath": "D:\\GitLab\\ShopOnlineWithEFCoreAndBlazorWebAssembly\\ShopOnline.Web\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Andrzej Gołota\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "D:\\working_dir\\przjac\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -90,8 +90,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "E:\\repos\\ShopOnline\\ShopOnline.Models\\ShopOnline.Models.csproj": {
-                "projectPath": "E:\\repos\\ShopOnline\\ShopOnline.Models\\ShopOnline.Models.csproj"
+              "D:\\GitLab\\ShopOnlineWithEFCoreAndBlazorWebAssembly\\ShopOnline.Models\\ShopOnline.Models.csproj": {
+                "projectPath": "D:\\GitLab\\ShopOnlineWithEFCoreAndBlazorWebAssembly\\ShopOnline.Models\\ShopOnline.Models.csproj"
               }
             }
           }
@@ -114,6 +114,10 @@
               "suppressParent": "All",
               "target": "Package",
               "version": "[6.0.7, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.1, )"
             }
           },
           "imports": [

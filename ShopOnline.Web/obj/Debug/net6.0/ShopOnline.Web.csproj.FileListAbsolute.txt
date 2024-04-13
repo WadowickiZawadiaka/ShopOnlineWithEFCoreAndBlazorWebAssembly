@@ -3276,3 +3276,10 @@ E:\repos\ShopOnline\ShopOnline.Web\obj\Debug\net6.0\build-gz\FzUFTa4J.gz
 E:\repos\ShopOnline\ShopOnline.Web\obj\Debug\net6.0\build-gz\xWcTmVtS.gz
 E:\repos\ShopOnline\ShopOnline.Web\obj\Debug\net6.0\scopedcss\Pages\DisplayProducts.razor.rz.scp.css
 E:\repos\ShopOnline\ShopOnline.Web\obj\Debug\net6.0\scopedcss\Pages\DisplaySpinner.razor.rz.scp.css
+D:\GitLab\ShopOnlineWithEFCoreAndBlazorWebAssembly\ShopOnline.Web\obj\Debug\net6.0\scopedcss\Pages\DisplayProducts.razor.rz.scp.css
+D:\GitLab\ShopOnlineWithEFCoreAndBlazorWebAssembly\ShopOnline.Web\obj\Debug\net6.0\scopedcss\Pages\DisplaySpinner.razor.rz.scp.css
+D:\GitLab\ShopOnlineWithEFCoreAndBlazorWebAssembly\ShopOnline.Web\bin\Debug\net6.0\wwwroot\_framework\Newtonsoft.Json.dll
+D:\GitLab\ShopOnlineWithEFCoreAndBlazorWebAssembly\ShopOnline.Web\bin\Debug\net6.0\wwwroot\_framework\Newtonsoft.Json.dll.gz
+D:\GitLab\ShopOnlineWithEFCoreAndBlazorWebAssembly\ShopOnline.Web\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\GitLab\ShopOnlineWithEFCoreAndBlazorWebAssembly\ShopOnline.Web\obj\Debug\net6.0\build-gz\N9iFZz9I.gz
+D:\GitLab\ShopOnlineWithEFCoreAndBlazorWebAssembly\ShopOnline.Web\obj\Debug\net6.0\scopedcss\Pages\ShoppingCart.razor.rz.scp.css

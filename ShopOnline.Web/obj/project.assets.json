@@ -315,6 +315,15 @@
           "lib/net6.0/Microsoft.JSInterop.WebAssembly.dll": {}
         }
       },
+      "Newtonsoft.Json/13.0.1": {
+        "type": "package",
+        "compile": {
+          "lib/netstandard2.0/Newtonsoft.Json.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/Newtonsoft.Json.dll": {}
+        }
+      },
       "System.Diagnostics.DiagnosticSource/6.0.0": {
         "type": "package",
         "dependencies": {
@@ -714,6 +723,15 @@
         },
         "runtime": {
           "lib/net6.0/Microsoft.JSInterop.WebAssembly.dll": {}
+        }
+      },
+      "Newtonsoft.Json/13.0.1": {
+        "type": "package",
+        "compile": {
+          "lib/netstandard2.0/Newtonsoft.Json.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/Newtonsoft.Json.dll": {}
         }
       },
       "System.Diagnostics.DiagnosticSource/6.0.0": {
@@ -1402,6 +1420,33 @@
         "microsoft.jsinterop.webassembly.nuspec"
       ]
     },
+    "Newtonsoft.Json/13.0.1": {
+      "sha512": "ppPFpBcvxdsfUonNcvITKqLl3bqxWbDCZIzDWHzjpdAHRFfZe0Dw9HmA0+za13IdyrgJwpkDTDA9fHaxOrt20A==",
+      "type": "package",
+      "path": "newtonsoft.json/13.0.1",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "LICENSE.md",
+        "lib/net20/Newtonsoft.Json.dll",
+        "lib/net20/Newtonsoft.Json.xml",
+        "lib/net35/Newtonsoft.Json.dll",
+        "lib/net35/Newtonsoft.Json.xml",
+        "lib/net40/Newtonsoft.Json.dll",
+        "lib/net40/Newtonsoft.Json.xml",
+        "lib/net45/Newtonsoft.Json.dll",
+        "lib/net45/Newtonsoft.Json.xml",
+        "lib/netstandard1.0/Newtonsoft.Json.dll",
+        "lib/netstandard1.0/Newtonsoft.Json.xml",
+        "lib/netstandard1.3/Newtonsoft.Json.dll",
+        "lib/netstandard1.3/Newtonsoft.Json.xml",
+        "lib/netstandard2.0/Newtonsoft.Json.dll",
+        "lib/netstandard2.0/Newtonsoft.Json.xml",
+        "newtonsoft.json.13.0.1.nupkg.sha512",
+        "newtonsoft.json.nuspec",
+        "packageIcon.png"
+      ]
+    },
     "System.Diagnostics.DiagnosticSource/6.0.0": {
       "sha512": "frQDfv0rl209cKm1lnwTgFPzNigy2EKk1BS3uAvHvlBVKe5cymGyHO+Sj+NLv5VF/AhHsqPIUUwya5oV4CHMUw==",
       "type": "package",
@@ -1568,27 +1613,28 @@
     "net6.0": [
       "Microsoft.AspNetCore.Components.WebAssembly >= 6.0.7",
       "Microsoft.AspNetCore.Components.WebAssembly.DevServer >= 6.0.7",
+      "Newtonsoft.Json >= 13.0.1",
       "ShopOnline.Models >= 1.0.0"
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Andrzej Gołota\\.nuget\\packages\\": {},
+    "D:\\working_dir\\przjac\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\repos\\ShopOnline\\ShopOnline.Web\\ShopOnline.Web.csproj",
+      "projectUniqueName": "D:\\GitLab\\ShopOnlineWithEFCoreAndBlazorWebAssembly\\ShopOnline.Web\\ShopOnline.Web.csproj",
       "projectName": "ShopOnline.Web",
-      "projectPath": "E:\\repos\\ShopOnline\\ShopOnline.Web\\ShopOnline.Web.csproj",
-      "packagesPath": "C:\\Users\\Andrzej Gołota\\.nuget\\packages\\",
-      "outputPath": "E:\\repos\\ShopOnline\\ShopOnline.Web\\obj\\",
+      "projectPath": "D:\\GitLab\\ShopOnlineWithEFCoreAndBlazorWebAssembly\\ShopOnline.Web\\ShopOnline.Web.csproj",
+      "packagesPath": "D:\\working_dir\\przjac\\.nuget\\packages\\",
+      "outputPath": "D:\\GitLab\\ShopOnlineWithEFCoreAndBlazorWebAssembly\\ShopOnline.Web\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\Andrzej Gołota\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "D:\\working_dir\\przjac\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -1603,8 +1649,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "E:\\repos\\ShopOnline\\ShopOnline.Models\\ShopOnline.Models.csproj": {
-              "projectPath": "E:\\repos\\ShopOnline\\ShopOnline.Models\\ShopOnline.Models.csproj"
+            "D:\\GitLab\\ShopOnlineWithEFCoreAndBlazorWebAssembly\\ShopOnline.Models\\ShopOnline.Models.csproj": {
+              "projectPath": "D:\\GitLab\\ShopOnlineWithEFCoreAndBlazorWebAssembly\\ShopOnline.Models\\ShopOnline.Models.csproj"
             }
           }
         }
@@ -1627,6 +1673,10 @@
             "suppressParent": "All",
             "target": "Package",
             "version": "[6.0.7, )"
+          },
+          "Newtonsoft.Json": {
+            "target": "Package",
+            "version": "[13.0.1, )"
           }
         },
         "imports": [

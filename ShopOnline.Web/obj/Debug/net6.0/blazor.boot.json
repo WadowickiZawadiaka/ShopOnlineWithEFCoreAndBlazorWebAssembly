@@ -29,6 +29,7 @@
       "Microsoft.Extensions.Primitives.dll": "sha256-jOmoWSfsdQexH\/6QCA56gR1RMEqeix2iDDUBWbpAOQI=",
       "Microsoft.JSInterop.dll": "sha256-UMN0MIhXy6iiBoCH7TVNO7airH6YRx+Dtq3QNJ0b0rM=",
       "Microsoft.JSInterop.WebAssembly.dll": "sha256-TNVKFxQm+ZgKzHK5rCOcAC9sMNh87Kz6N3h5jS7B\/cg=",
+      "Newtonsoft.Json.dll": "sha256-cs8pHUurDt0IqbB8YXPh560au3q3J\/1wRL9jBddRVmE=",
       "System.IO.Pipelines.dll": "sha256-6+E55JXedimdw1c1bDtVg4K7XuWjVWVTifH8QpfzXSY=",
       "Microsoft.CSharp.dll": "sha256-DBX+tbEtSR3vzMA1qJk3ZDTX2ZBhOIWNVh1PtWMDIXw=",
       "Microsoft.VisualBasic.Core.dll": "sha256-6Yh0Z6NJFcqVLkbAVs2n6VSqdARNIVJludvYrOfV7Nc=",
@@ -196,18 +197,18 @@
       "mscorlib.dll": "sha256-wmk56X5dbt29rrFZKEFpOFjotkZA+JSxA4fqkgmBsOU=",
       "netstandard.dll": "sha256-CvlfDmNgFRYT7l\/xZKu91FlbTFyLG\/5cH7YX63k9ghE=",
       "System.Private.CoreLib.dll": "sha256-aF4imeOpA59D6F5qCLabzkeY7MvRZzNYzavhB\/bdxvM=",
-      "ShopOnline.Models.dll": "sha256-IWNxcJDGc7ESzDDn8ZDbv8oKzNeOhHe06PUp0asjfyc=",
-      "ShopOnline.Web.dll": "sha256-pxzoaZBbX+GK3SbIToX4NuobQ1byofhhq1G3MCpGDJM="
+      "ShopOnline.Models.dll": "sha256-DHQ5D9XL+EJrYPGSsKGQVBR13tzvNx9\/KaS1HTfgGqk=",
+      "ShopOnline.Web.dll": "sha256-xfAgTWO0IbAg92oVWQ1hOPon4cNvAGQ7W9Mz5\/LTTw8="
     },
     "extensions": null,
     "lazyAssembly": null,
     "libraryInitializers": null,
     "pdb": {
-      "ShopOnline.Models.pdb": "sha256-NpUQJJzpth4EjcXppBAiSiM2E2HB9K5UErzdtusi\/Q0=",
-      "ShopOnline.Web.pdb": "sha256-odthP1dKozSBKtYYlq+PQF8zeyw1G9u\/Nv4W8p3Abqo="
+      "ShopOnline.Models.pdb": "sha256-EI0raGfDHDbj45ROrNHbReHTcnYZu45NJn6zZq83lhM=",
+      "ShopOnline.Web.pdb": "sha256-1JEx5YW6\/X8dAvR\/xdRoTI5c26PBRpx6R4K7rAphpRs="
     },
     "runtime": {
-      "dotnet.6.0.7.dfwpo5gy4q.js": "sha256-pvJcJ6jtDSfxgXm03QYRTm4aAi9PSzMSJODReHtvASY=",
+      "dotnet.6.0.7.47g5rkmtjp.js": "sha256-pvJcJ6jtDSfxgXm03QYRTm4aAi9PSzMSJODReHtvASY=",
       "dotnet.timezones.blat": "sha256-voSto+V7XFVWZeFKKyqXIz7TSPff+H8\/q3yNzTJaPg8=",
       "dotnet.wasm": "sha256-J2jDqzlphFQO2ZAdajpUa\/DxBhSK6uS1m6Cs0XdyePE=",
       "icudt.dat": "sha256-Zuq0dWAsBm6\/2lSOsz7+H9PvFaRn61KIXHMMwXDfvyE=",
